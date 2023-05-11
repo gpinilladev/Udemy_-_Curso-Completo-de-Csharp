@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pXDePtPHyJf5LUGi+uosUqgkc4l9tghw+sLn29l0oUf3DSFTx2D/JRKMqsvcIuWdcYUxre8VBqX7E7FpylUcug==",
+  "success": true,
+  "projectFilePath": "/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/70-For-Each/70-For-Each/70-For-Each.csproj",
+  "expectedPackageFiles": [
+    "/Users/germanpinilla/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

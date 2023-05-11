@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/bin/Debug/net7.0/47-TRY-CATCH
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/bin/Debug/net7.0/47-TRY-CATCH.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/bin/Debug/net7.0/47-TRY-CATCH.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/bin/Debug/net7.0/47-TRY-CATCH.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/bin/Debug/net7.0/47-TRY-CATCH.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/47-TRY-CATCH.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/47-TRY-CATCH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/47-TRY-CATCH.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/47-TRY-CATCH.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/47-TRY-CATCH.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/47-TRY-CATCH.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/refint/47-TRY-CATCH.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/47-TRY-CATCH.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/47-TRY-CATCH.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/47-TRY-CATCH/47-TRY-CATCH/obj/Debug/net7.0/ref/47-TRY-CATCH.dll

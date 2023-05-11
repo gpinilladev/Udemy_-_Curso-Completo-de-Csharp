@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BR1cwv00cgyHfWcclSmh6MLJNysb1PdAlVb/Ddbkp1O+BEJMyG260DjZLc3rRw9NiDOwdecm4WogjRh5jSF9WQ==",
+  "success": true,
+  "projectFilePath": "/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/20-Static.csproj",
+  "expectedPackageFiles": [
+    "/Users/germanpinilla/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

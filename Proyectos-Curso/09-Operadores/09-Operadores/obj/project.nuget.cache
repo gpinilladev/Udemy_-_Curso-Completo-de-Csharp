@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3Qqci+UCWog1TrWY78JH/9kGooPduFM3YZkh4LD1oNbUT7u/80+9qeV1Mjg2aT2rHWkdZkCulZD5+0KBumPxg==",
+  "success": true,
+  "projectFilePath": "/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/09-Operadores.csproj",
+  "expectedPackageFiles": [
+    "/Users/germanpinilla/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

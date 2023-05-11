@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/bin/Debug/net6.0/79-Interfaces
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/bin/Debug/net6.0/79-Interfaces.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/bin/Debug/net6.0/79-Interfaces.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/bin/Debug/net6.0/79-Interfaces.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/bin/Debug/net6.0/79-Interfaces.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/79-Interfaces.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/79-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/79-Interfaces.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/79-Interfaces.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/79-Interfaces.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/79-Interfaces.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/refint/79-Interfaces.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/79-Interfaces.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/79-Interfaces.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/79-Interfaces/79-Interfaces/obj/Debug/net6.0/ref/79-Interfaces.dll

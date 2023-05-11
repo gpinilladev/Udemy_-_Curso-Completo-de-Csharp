@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{25BD40AC-96C7-4FB4-9956-D10FC65EFC22}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="79-Interfaces/IVehicle.cs">
+    <Files>
+      <File FileName="79-Interfaces/Program.cs" Line="21" Column="6" />
+      <File FileName="79-Interfaces/IVehicle.cs" Line="7" Column="33" />
+      <File FileName="79-Interfaces/Bicycle.cs" Line="12" Column="16" />
+      <File FileName="79-Interfaces/Auto.cs" Line="12" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="79-Interfaces" expanded="True">
+            <Node name="79-Interfaces" expanded="True">
+              <Node name="IVehicle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.79-Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

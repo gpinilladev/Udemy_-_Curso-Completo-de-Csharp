@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75-Herencia_-_Classes-abstractas", "75-Herencia_-_Classes-abstractas\75-Herencia_-_Classes-abstractas.csproj", "{A9BA5D4B-D2A6-485D-8E34-443A3E06CA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9BA5D4B-D2A6-485D-8E34-443A3E06CA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BA5D4B-D2A6-485D-8E34-443A3E06CA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BA5D4B-D2A6-485D-8E34-443A3E06CA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BA5D4B-D2A6-485D-8E34-443A3E06CA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {759D271A-CA30-47CC-B355-E6315B46CC27}
+	EndGlobalSection
+EndGlobal

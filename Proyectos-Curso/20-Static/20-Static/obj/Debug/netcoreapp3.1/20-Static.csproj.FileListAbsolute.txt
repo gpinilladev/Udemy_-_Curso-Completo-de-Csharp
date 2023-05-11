@@ -1,0 +1,14 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/bin/Debug/netcoreapp3.1/20-Static.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/bin/Debug/netcoreapp3.1/20-Static.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/bin/Debug/netcoreapp3.1/20-Static.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/bin/Debug/netcoreapp3.1/20-Static.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/bin/Debug/netcoreapp3.1/20-Static.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/obj/Debug/netcoreapp3.1/20-Static.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/obj/Debug/netcoreapp3.1/20-Static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/obj/Debug/netcoreapp3.1/20-Static.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/obj/Debug/netcoreapp3.1/20-Static.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/obj/Debug/netcoreapp3.1/20-Static.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/obj/Debug/netcoreapp3.1/20-Static.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/obj/Debug/netcoreapp3.1/20-Static.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/obj/Debug/netcoreapp3.1/20-Static.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/20-Static/20-Static/bin/Debug/netcoreapp3.1/20-Static

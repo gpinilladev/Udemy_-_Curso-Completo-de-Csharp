@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/bin/Debug/net7.0/20-Static-Practico
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/bin/Debug/net7.0/20-Static-Practico.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/bin/Debug/net7.0/20-Static-Practico.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/bin/Debug/net7.0/20-Static-Practico.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/bin/Debug/net7.0/20-Static-Practico.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/20-Static-Practico.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/20-Static-Practico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/20-Static-Practico.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/20-Static-Practico.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/20-Static-Practico.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/20-Static-Practico.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/refint/20-Static-Practico.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/20-Static-Practico.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/20-Static-Practico.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/20-Static-Practico/20-Static-Practico/obj/Debug/net7.0/ref/20-Static-Practico.dll

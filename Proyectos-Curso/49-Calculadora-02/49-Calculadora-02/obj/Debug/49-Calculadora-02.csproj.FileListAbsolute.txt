@@ -1,0 +1,11 @@
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\bin\Debug\49-Calculadora-02.exe.config
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\bin\Debug\49-Calculadora-02.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\bin\Debug\49-Calculadora-02.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\obj\Debug\49-Calculadora-02.csproj.AssemblyReference.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\obj\Debug\49-Calculadora-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\obj\Debug\_49_Calculadora_02.Form1.resources
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\obj\Debug\_49_Calculadora_02.Properties.Resources.resources
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\obj\Debug\49-Calculadora-02.csproj.GenerateResource.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\obj\Debug\49-Calculadora-02.csproj.CoreCompileInputs.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\obj\Debug\49-Calculadora-02.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\49-Calculadora-02\49-Calculadora-02\obj\Debug\49-Calculadora-02.pdb

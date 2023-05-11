@@ -1,0 +1,16 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/bin/Debug/net5.0/63-Array.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/bin/Debug/net5.0/63-Array.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/bin/Debug/net5.0/63-Array.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/bin/Debug/net5.0/63-Array.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/bin/Debug/net5.0/63-Array.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/63-Array.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/63-Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/63-Array.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/63-Array.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/63-Array.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/63-Array.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/ref/63-Array.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/63-Array.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/63-Array.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/bin/Debug/net5.0/63-Array
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/63-Array/63-Array/obj/Debug/net5.0/refint/63-Array.dll

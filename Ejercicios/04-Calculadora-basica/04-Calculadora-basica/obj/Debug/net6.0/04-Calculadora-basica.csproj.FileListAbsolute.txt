@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/bin/Debug/net6.0/04-Calculadora-basica
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/bin/Debug/net6.0/04-Calculadora-basica.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/bin/Debug/net6.0/04-Calculadora-basica.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/bin/Debug/net6.0/04-Calculadora-basica.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/bin/Debug/net6.0/04-Calculadora-basica.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/04-Calculadora-basica.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/04-Calculadora-basica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/04-Calculadora-basica.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/04-Calculadora-basica.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/04-Calculadora-basica.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/04-Calculadora-basica.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/refint/04-Calculadora-basica.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/04-Calculadora-basica.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/04-Calculadora-basica.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/04-Calculadora-basica/04-Calculadora-basica/obj/Debug/net6.0/ref/04-Calculadora-basica.dll

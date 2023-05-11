@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/29-String-Builder.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/29-String-Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/29-String-Builder.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/29-String-Builder.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/29-String-Builder.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/bin/Debug/net5.0/29-String-Builder.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/bin/Debug/net5.0/29-String-Builder.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/bin/Debug/net5.0/29-String-Builder.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/bin/Debug/net5.0/29-String-Builder.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/bin/Debug/net5.0/ref/29-String-Builder.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/bin/Debug/net5.0/29-String-Builder.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/29-String-Builder.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/ref/29-String-Builder.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/29-String-Builder.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/29-String-Builder/29-String-Builder/obj/Debug/net5.0/29-String-Builder.genruntimeconfig.cache

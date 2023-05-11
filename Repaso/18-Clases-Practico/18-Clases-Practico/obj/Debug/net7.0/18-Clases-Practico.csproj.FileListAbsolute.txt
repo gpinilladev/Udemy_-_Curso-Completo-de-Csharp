@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/bin/Debug/net7.0/18-Clases-Practico
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/bin/Debug/net7.0/18-Clases-Practico.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/bin/Debug/net7.0/18-Clases-Practico.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/bin/Debug/net7.0/18-Clases-Practico.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/bin/Debug/net7.0/18-Clases-Practico.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/18-Clases-Practico.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/18-Clases-Practico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/18-Clases-Practico.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/18-Clases-Practico.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/18-Clases-Practico.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/18-Clases-Practico.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/refint/18-Clases-Practico.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/18-Clases-Practico.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/18-Clases-Practico.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/18-Clases-Practico/18-Clases-Practico/obj/Debug/net7.0/ref/18-Clases-Practico.dll

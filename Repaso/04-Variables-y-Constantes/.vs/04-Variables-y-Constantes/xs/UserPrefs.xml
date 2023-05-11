@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{ABFAEF47-A5F4-493F-B3AA-9AC84E3A5871}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04-Variables-y-Constantes/Program.cs">
+    <Files>
+      <File FileName="04-Variables-y-Constantes/Program.cs" Line="66" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04-Variables-y-Constantes" expanded="True">
+            <Node name="04-Variables-y-Constantes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04-Variables-y-Constantes PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

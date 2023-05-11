@@ -1,0 +1,14 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/bin/Debug/netcoreapp3.1/10-Comentarios.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/bin/Debug/netcoreapp3.1/10-Comentarios.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/bin/Debug/netcoreapp3.1/10-Comentarios.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/bin/Debug/netcoreapp3.1/10-Comentarios.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/bin/Debug/netcoreapp3.1/10-Comentarios.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/obj/Debug/netcoreapp3.1/10-Comentarios.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/obj/Debug/netcoreapp3.1/10-Comentarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/obj/Debug/netcoreapp3.1/10-Comentarios.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/obj/Debug/netcoreapp3.1/10-Comentarios.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/obj/Debug/netcoreapp3.1/10-Comentarios.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/obj/Debug/netcoreapp3.1/10-Comentarios.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/obj/Debug/netcoreapp3.1/10-Comentarios.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/obj/Debug/netcoreapp3.1/10-Comentarios.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/10-Comentarios/10-Comentarios/bin/Debug/netcoreapp3.1/10-Comentarios

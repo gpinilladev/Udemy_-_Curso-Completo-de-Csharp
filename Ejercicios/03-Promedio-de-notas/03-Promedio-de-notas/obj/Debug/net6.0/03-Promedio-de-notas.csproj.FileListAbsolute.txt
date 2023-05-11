@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/bin/Debug/net6.0/03-Promedio-de-notas
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/bin/Debug/net6.0/03-Promedio-de-notas.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/bin/Debug/net6.0/03-Promedio-de-notas.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/bin/Debug/net6.0/03-Promedio-de-notas.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/bin/Debug/net6.0/03-Promedio-de-notas.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/03-Promedio-de-notas.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/03-Promedio-de-notas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/03-Promedio-de-notas.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/03-Promedio-de-notas.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/03-Promedio-de-notas.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/03-Promedio-de-notas.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/refint/03-Promedio-de-notas.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/03-Promedio-de-notas.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/03-Promedio-de-notas.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Ejercicios/03-Promedio-de-notas/03-Promedio-de-notas/obj/Debug/net6.0/ref/03-Promedio-de-notas.dll

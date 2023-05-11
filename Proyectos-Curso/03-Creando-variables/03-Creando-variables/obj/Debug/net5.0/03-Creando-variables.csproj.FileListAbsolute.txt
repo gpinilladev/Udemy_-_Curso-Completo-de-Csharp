@@ -1,0 +1,16 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/bin/Debug/net5.0/03-Creando-variables.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/bin/Debug/net5.0/03-Creando-variables.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/bin/Debug/net5.0/03-Creando-variables.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/bin/Debug/net5.0/03-Creando-variables.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/bin/Debug/net5.0/03-Creando-variables.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/03-Creando-variables.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/03-Creando-variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/03-Creando-variables.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/03-Creando-variables.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/03-Creando-variables.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/03-Creando-variables.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/ref/03-Creando-variables.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/03-Creando-variables.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/03-Creando-variables.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/bin/Debug/net5.0/03-Creando-variables
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/03-Creando-variables/03-Creando-variables/obj/Debug/net5.0/refint/03-Creando-variables.dll

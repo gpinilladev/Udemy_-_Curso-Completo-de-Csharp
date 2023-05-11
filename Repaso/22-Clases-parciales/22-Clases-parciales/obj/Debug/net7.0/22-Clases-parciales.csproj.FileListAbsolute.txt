@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/bin/Debug/net7.0/22-Clases-parciales
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/bin/Debug/net7.0/22-Clases-parciales.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/bin/Debug/net7.0/22-Clases-parciales.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/bin/Debug/net7.0/22-Clases-parciales.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/bin/Debug/net7.0/22-Clases-parciales.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/22-Clases-parciales.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/22-Clases-parciales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/22-Clases-parciales.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/22-Clases-parciales.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/22-Clases-parciales.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/22-Clases-parciales.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/refint/22-Clases-parciales.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/22-Clases-parciales.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/22-Clases-parciales.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/22-Clases-parciales/22-Clases-parciales/obj/Debug/net7.0/ref/22-Clases-parciales.dll

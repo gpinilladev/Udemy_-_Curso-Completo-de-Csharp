@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/bin/Debug/net5.0/25-Funciones-locales.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/bin/Debug/net5.0/25-Funciones-locales.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/bin/Debug/net5.0/25-Funciones-locales.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/bin/Debug/net5.0/25-Funciones-locales.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/bin/Debug/net5.0/ref/25-Funciones-locales.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/bin/Debug/net5.0/25-Funciones-locales.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/25-Funciones-locales.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/25-Funciones-locales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/25-Funciones-locales.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/25-Funciones-locales.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/25-Funciones-locales.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/25-Funciones-locales.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/ref/25-Funciones-locales.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/25-Funciones-locales.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/25-Funciones-locales/25-Funciones-locales/obj/Debug/net5.0/25-Funciones-locales.genruntimeconfig.cache

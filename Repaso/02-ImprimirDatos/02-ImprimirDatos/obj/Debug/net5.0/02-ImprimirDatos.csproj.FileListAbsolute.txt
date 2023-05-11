@@ -1,0 +1,16 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/bin/Debug/net5.0/02-ImprimirDatos.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/bin/Debug/net5.0/02-ImprimirDatos.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/bin/Debug/net5.0/02-ImprimirDatos.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/bin/Debug/net5.0/02-ImprimirDatos.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/bin/Debug/net5.0/02-ImprimirDatos.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/02-ImprimirDatos.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/02-ImprimirDatos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/02-ImprimirDatos.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/02-ImprimirDatos.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/02-ImprimirDatos.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/02-ImprimirDatos.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/ref/02-ImprimirDatos.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/02-ImprimirDatos.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/02-ImprimirDatos.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/bin/Debug/net5.0/02-ImprimirDatos
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/02-ImprimirDatos/02-ImprimirDatos/obj/Debug/net5.0/refint/02-ImprimirDatos.dll

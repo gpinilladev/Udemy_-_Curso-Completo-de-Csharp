@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0F829DE6-58A6-44EC-A62C-9AADE907E9E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.25-Funciones-locales PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="25-Funciones-locales/Program.cs">
+    <Files>
+      <File FileName="25-Funciones-locales/Program.cs" Line="19" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="25-Funciones-locales" expanded="True">
+            <Node name="25-Funciones-locales" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

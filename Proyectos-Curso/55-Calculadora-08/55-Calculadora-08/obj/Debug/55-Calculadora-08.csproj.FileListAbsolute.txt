@@ -1,0 +1,10 @@
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\bin\Debug\55-Calculadora-08.exe.config
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\bin\Debug\55-Calculadora-08.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\bin\Debug\55-Calculadora-08.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\obj\Debug\55-Calculadora-08.csproj.AssemblyReference.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\obj\Debug\55-Calculadora-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\obj\Debug\_55_Calculadora_08.Properties.Resources.resources
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\obj\Debug\55-Calculadora-08.csproj.GenerateResource.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\obj\Debug\55-Calculadora-08.csproj.CoreCompileInputs.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\obj\Debug\55-Calculadora-08.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\55-Calculadora-08\55-Calculadora-08\obj\Debug\55-Calculadora-08.pdb

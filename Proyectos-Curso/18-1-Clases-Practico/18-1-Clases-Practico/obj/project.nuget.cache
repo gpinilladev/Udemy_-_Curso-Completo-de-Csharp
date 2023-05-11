@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+2OFaxC7nhAwLejZwMtYKx455AJVzifTg/j3v0wbwm47x8JnFBUqwctHeI34ZveFLzaFpD3V3quXzxEyVBylA==",
+  "success": true,
+  "projectFilePath": "/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-1-Clases-Practico/18-1-Clases-Practico/18-1-Clases-Practico.csproj",
+  "expectedPackageFiles": [
+    "/Users/germanpinilla/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

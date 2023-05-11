@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/bin/Debug/net7.0/44-DO-WHILE
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/bin/Debug/net7.0/44-DO-WHILE.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/bin/Debug/net7.0/44-DO-WHILE.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/bin/Debug/net7.0/44-DO-WHILE.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/bin/Debug/net7.0/44-DO-WHILE.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/44-DO-WHILE.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/44-DO-WHILE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/44-DO-WHILE.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/44-DO-WHILE.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/44-DO-WHILE.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/44-DO-WHILE.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/refint/44-DO-WHILE.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/44-DO-WHILE.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/44-DO-WHILE.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/44-DO-WHILE/44-DO-WHILE/obj/Debug/net7.0/ref/44-DO-WHILE.dll

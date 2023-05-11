@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/bin/Debug/net7.0/42-WHILE
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/bin/Debug/net7.0/42-WHILE.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/bin/Debug/net7.0/42-WHILE.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/bin/Debug/net7.0/42-WHILE.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/bin/Debug/net7.0/42-WHILE.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/42-WHILE.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/42-WHILE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/42-WHILE.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/42-WHILE.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/42-WHILE.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/42-WHILE.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/refint/42-WHILE.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/42-WHILE.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/42-WHILE.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/42-WHILE/42-WHILE/obj/Debug/net7.0/ref/42-WHILE.dll

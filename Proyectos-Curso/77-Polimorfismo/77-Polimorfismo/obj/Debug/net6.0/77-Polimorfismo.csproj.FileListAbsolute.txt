@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/bin/Debug/net6.0/77-Polimorfismo
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/bin/Debug/net6.0/77-Polimorfismo.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/bin/Debug/net6.0/77-Polimorfismo.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/bin/Debug/net6.0/77-Polimorfismo.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/bin/Debug/net6.0/77-Polimorfismo.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/77-Polimorfismo.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/77-Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/77-Polimorfismo.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/77-Polimorfismo.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/77-Polimorfismo.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/77-Polimorfismo.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/refint/77-Polimorfismo.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/77-Polimorfismo.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/77-Polimorfismo.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/77-Polimorfismo/77-Polimorfismo/obj/Debug/net6.0/ref/77-Polimorfismo.dll

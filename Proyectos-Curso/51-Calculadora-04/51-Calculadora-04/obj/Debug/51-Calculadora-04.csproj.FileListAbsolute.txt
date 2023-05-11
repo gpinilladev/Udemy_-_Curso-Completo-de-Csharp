@@ -1,0 +1,11 @@
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\obj\Debug\51-Calculadora-04.csproj.AssemblyReference.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\obj\Debug\51-Calculadora-04.csproj.SuggestedBindingRedirects.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\obj\Debug\_51_Calculadora_04.Form1.resources
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\obj\Debug\_51_Calculadora_04.Properties.Resources.resources
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\obj\Debug\51-Calculadora-04.csproj.GenerateResource.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\obj\Debug\51-Calculadora-04.csproj.CoreCompileInputs.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\bin\Debug\51-Calculadora-04.exe.config
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\bin\Debug\51-Calculadora-04.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\bin\Debug\51-Calculadora-04.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\obj\Debug\51-Calculadora-04.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\51-Calculadora-04\51-Calculadora-04\obj\Debug\51-Calculadora-04.pdb

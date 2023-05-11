@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/bin/Debug/net5.0/68-Diccionarios.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/bin/Debug/net5.0/68-Diccionarios.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/bin/Debug/net5.0/68-Diccionarios.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/bin/Debug/net5.0/68-Diccionarios.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/bin/Debug/net5.0/ref/68-Diccionarios.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/bin/Debug/net5.0/68-Diccionarios.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/68-Diccionarios.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/68-Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/68-Diccionarios.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/68-Diccionarios.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/68-Diccionarios.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/68-Diccionarios.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/ref/68-Diccionarios.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/68-Diccionarios.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/68-Diccionarios/68-Diccionarios/obj/Debug/net5.0/68-Diccionarios.genruntimeconfig.cache

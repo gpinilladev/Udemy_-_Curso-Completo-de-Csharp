@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{79DF4625-B94E-4AF4-8FDD-69E11573C329}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02-ImprimirDatos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="02-ImprimirDatos/Program.cs">
+    <Files>
+      <File FileName="02-ImprimirDatos/Program.cs" Line="25" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02-ImprimirDatos" expanded="True">
+            <Node name="02-ImprimirDatos" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

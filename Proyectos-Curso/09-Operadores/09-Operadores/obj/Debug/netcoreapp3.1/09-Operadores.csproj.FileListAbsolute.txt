@@ -1,0 +1,14 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/bin/Debug/netcoreapp3.1/09-Operadores.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/bin/Debug/netcoreapp3.1/09-Operadores.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/bin/Debug/netcoreapp3.1/09-Operadores.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/bin/Debug/netcoreapp3.1/09-Operadores.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/bin/Debug/netcoreapp3.1/09-Operadores.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/obj/Debug/netcoreapp3.1/09-Operadores.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/obj/Debug/netcoreapp3.1/09-Operadores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/obj/Debug/netcoreapp3.1/09-Operadores.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/obj/Debug/netcoreapp3.1/09-Operadores.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/obj/Debug/netcoreapp3.1/09-Operadores.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/obj/Debug/netcoreapp3.1/09-Operadores.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/obj/Debug/netcoreapp3.1/09-Operadores.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/obj/Debug/netcoreapp3.1/09-Operadores.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/09-Operadores/09-Operadores/bin/Debug/netcoreapp3.1/09-Operadores

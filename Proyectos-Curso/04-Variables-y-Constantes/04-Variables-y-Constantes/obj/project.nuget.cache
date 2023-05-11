@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUmiF0AZcjiperemQcEbZgiFOzdGtEGg12h+YMZ3CKpVp2Nl/ZnBfPBqzYSghMgnrLkkPgXuizEUdPgSPUcUjA==",
+  "success": true,
+  "projectFilePath": "/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/04-Variables-y-Constantes/04-Variables-y-Constantes/04-Variables-y-Constantes.csproj",
+  "expectedPackageFiles": [
+    "/Users/germanpinilla/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

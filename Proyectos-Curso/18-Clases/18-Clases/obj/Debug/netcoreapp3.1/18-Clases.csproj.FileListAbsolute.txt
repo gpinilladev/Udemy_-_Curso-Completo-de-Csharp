@@ -1,0 +1,13 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/bin/Debug/netcoreapp3.1/18-Clases.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/bin/Debug/netcoreapp3.1/18-Clases.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/bin/Debug/netcoreapp3.1/18-Clases.runtimeconfig.dev.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/bin/Debug/netcoreapp3.1/18-Clases.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/bin/Debug/netcoreapp3.1/18-Clases.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/obj/Debug/netcoreapp3.1/18-Clases.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/obj/Debug/netcoreapp3.1/18-Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/obj/Debug/netcoreapp3.1/18-Clases.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/obj/Debug/netcoreapp3.1/18-Clases.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/obj/Debug/netcoreapp3.1/18-Clases.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/obj/Debug/netcoreapp3.1/18-Clases.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/obj/Debug/netcoreapp3.1/18-Clases.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/18-Clases/18-Clases/obj/Debug/netcoreapp3.1/18-Clases.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F2BB7646-454F-4652-90D1-409112ADBC05}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="22-Clases-parciales/Program.cs">
+    <Files>
+      <File FileName="22-Clases-parciales/Program.cs" Line="35" Column="1" />
+      <File FileName="22-Clases-parciales/Customer.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="22-Clases-parciales" expanded="True">
+            <Node name="22-Clases-parciales" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.22-Clases-parciales PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

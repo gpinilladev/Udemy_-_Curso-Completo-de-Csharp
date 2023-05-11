@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOOUhkJmIeYFGNkWP+yAGNQXPudMCCrPj0LHY/EkThGk28raxp7rR8Ju0jzWibkT7DF1NbV7ahRmXSBeWtng7Q==",
+  "success": true,
+  "projectFilePath": "/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Proyectos-Curso/06-Conversion-de-tipo-de-datos/06-Conversion-de-tipo-de-datos/06-Conversion-de-tipo-de-datos.csproj",
+  "expectedPackageFiles": [
+    "/Users/germanpinilla/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/germanpinilla/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

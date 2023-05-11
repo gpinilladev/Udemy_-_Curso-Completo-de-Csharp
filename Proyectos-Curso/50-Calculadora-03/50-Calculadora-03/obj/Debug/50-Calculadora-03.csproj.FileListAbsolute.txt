@@ -1,0 +1,11 @@
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\obj\Debug\50-Calculadora-03.csproj.AssemblyReference.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\obj\Debug\50-Calculadora-03.csproj.SuggestedBindingRedirects.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\obj\Debug\_50_Calculadora_03.Properties.Resources.resources
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\obj\Debug\50-Calculadora-03.csproj.GenerateResource.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\obj\Debug\50-Calculadora-03.csproj.CoreCompileInputs.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\bin\Debug\50-Calculadora-03.exe.config
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\bin\Debug\50-Calculadora-03.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\bin\Debug\50-Calculadora-03.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\obj\Debug\50-Calculadora-03.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\obj\Debug\50-Calculadora-03.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\50-Calculadora-03\50-Calculadora-03\obj\Debug\_50_Calculadora_03.Form1.resources

@@ -1,0 +1,11 @@
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\bin\Debug\62-Calculadora-15.exe.config
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\bin\Debug\62-Calculadora-15.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\bin\Debug\62-Calculadora-15.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\obj\Debug\62-Calculadora-15.csproj.AssemblyReference.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\obj\Debug\62-Calculadora-15.csproj.SuggestedBindingRedirects.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\obj\Debug\_62_Calculadora_15.Properties.Resources.resources
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\obj\Debug\62-Calculadora-15.csproj.GenerateResource.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\obj\Debug\62-Calculadora-15.csproj.CoreCompileInputs.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\obj\Debug\62-Calculadora-15.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\obj\Debug\62-Calculadora-15.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\62-Calculadora-15\62-Calculadora-15\obj\Debug\_62_Calculadora_15.Form1.resources

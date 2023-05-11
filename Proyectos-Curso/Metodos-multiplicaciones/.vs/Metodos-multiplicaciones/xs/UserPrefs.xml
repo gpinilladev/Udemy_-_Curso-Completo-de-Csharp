@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C483AAC5-7B9D-44CC-BD4D-09915F9E71DA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Metodos-multiplicaciones/Program.cs">
+    <Files>
+      <File FileName="Metodos-multiplicaciones/Program.cs" Line="23" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Metodos-multiplicaciones" expanded="True">
+            <Node name="Metodos-multiplicaciones" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Metodos-multiplicaciones PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

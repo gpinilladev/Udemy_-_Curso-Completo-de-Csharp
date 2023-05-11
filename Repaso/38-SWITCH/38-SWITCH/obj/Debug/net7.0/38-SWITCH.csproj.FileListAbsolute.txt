@@ -1,0 +1,15 @@
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/bin/Debug/net7.0/38-SWITCH
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/bin/Debug/net7.0/38-SWITCH.deps.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/bin/Debug/net7.0/38-SWITCH.runtimeconfig.json
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/bin/Debug/net7.0/38-SWITCH.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/bin/Debug/net7.0/38-SWITCH.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/38-SWITCH.csproj.AssemblyReference.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/38-SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/38-SWITCH.AssemblyInfoInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/38-SWITCH.AssemblyInfo.cs
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/38-SWITCH.csproj.CoreCompileInputs.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/38-SWITCH.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/refint/38-SWITCH.dll
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/38-SWITCH.pdb
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/38-SWITCH.genruntimeconfig.cache
+/Users/germanpinilla/Documents/Udemy/Cursos/Aprende_CSharp_desde_Cero_-_Curso_Completo_de_CSharp/Repaso/38-SWITCH/38-SWITCH/obj/Debug/net7.0/ref/38-SWITCH.dll

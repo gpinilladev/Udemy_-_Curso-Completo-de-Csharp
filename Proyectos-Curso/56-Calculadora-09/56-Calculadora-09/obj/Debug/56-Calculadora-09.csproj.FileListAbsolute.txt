@@ -1,0 +1,11 @@
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\bin\Debug\56-Calculadora-09.exe.config
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\bin\Debug\56-Calculadora-09.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\bin\Debug\56-Calculadora-09.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\obj\Debug\56-Calculadora-09.csproj.AssemblyReference.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\obj\Debug\56-Calculadora-09.csproj.SuggestedBindingRedirects.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\obj\Debug\_56_Calculadora_09.Properties.Resources.resources
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\obj\Debug\56-Calculadora-09.csproj.GenerateResource.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\obj\Debug\56-Calculadora-09.csproj.CoreCompileInputs.cache
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\obj\Debug\56-Calculadora-09.exe
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\obj\Debug\56-Calculadora-09.pdb
+C:\Users\gprub\Documents\GitHub\Udemy_-_Aprende-Csharp-desde-Cero-Curso-Completo-de-Csharp\Proyectos-Curso\56-Calculadora-09\56-Calculadora-09\obj\Debug\_56_Calculadora_09.Form1.resources

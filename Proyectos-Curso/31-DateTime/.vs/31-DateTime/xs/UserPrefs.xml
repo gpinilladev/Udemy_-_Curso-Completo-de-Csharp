@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BE5212C9-3832-4331-8784-AB5C0A2A74B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.31-DateTime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="31-DateTime/Program.cs">
+    <Files>
+      <File FileName="31-DateTime/Program.cs" Line="89" Column="1" />
+      <File FileName="../29-String-Builder/29-String-Builder/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="31-DateTime" expanded="True">
+            <Node name="31-DateTime" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
